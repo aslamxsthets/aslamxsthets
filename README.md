@@ -188,18 +188,24 @@ DFIR: READY | INVESTIGATION: ACTIVE | LEARNING: CONSTANT
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=aslamxsthets&show_icons=true&theme=tokyonight&bg_color=080b10&title_color=f59e0b&icon_color=ef4444&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Aslam Javeed GitHub Stats" width="100%" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/aslamxsthets">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=aslamxsthets&show_icons=true&theme=tokyonight&bg_color=080b10&title_color=f59e0b&icon_color=ef4444&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Aslam Javeed GitHub Stats" width="100%" />
+        </a>
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamxsthets&layout=compact&theme=tokyonight&bg_color=080b10&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Top Languages" width="100%" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/aslamxsthets">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aslamxsthets&langs_count=6&theme=tokyonight&bg_color=080b10&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Top Languages" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats Card -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=aslamxsthets&theme=tokyonight&background=080b10&border=1e293b&stroke=ef4444&ring=f59e0b&fire=ef4444&currStreakNum=f59e0b&sideNums=38bdf8&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" width="95%" />
+    <a href="https://github.com/aslamxsthets">
+      <img src="https://streak-stats.demolab.com?user=aslamxsthets&theme=tokyonight&background=080b10&border=1e293b&stroke=ef4444&ring=f59e0b&fire=ef4444&currStreakNum=f59e0b&sideNums=38bdf8&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" width="95%" />
+    </a>
   </p>
 
   <!-- Contribution Snake Animation -->

@@ -191,18 +191,24 @@ DFIR: READY | INVESTIGATION: ACTIVE | LEARNING: CONSTANT
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=aslamxsthets&show_icons=true&theme=tokyonight&bg_color=080b10&title_color=f59e0b&icon_color=ef4444&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Aslam Javeed GitHub Stats" width="100%" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/aslamxsthets">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=aslamxsthets&show_icons=true&theme=tokyonight&bg_color=080b10&title_color=f59e0b&icon_color=ef4444&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Aslam Javeed GitHub Stats" width="100%" />
+        </a>
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamxsthets&layout=compact&theme=tokyonight&bg_color=080b10&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Top Languages" width="100%" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/aslamxsthets">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aslamxsthets&langs_count=6&theme=tokyonight&bg_color=080b10&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b&hide_border=false" alt="Top Languages" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats Card -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=aslamxsthets&theme=tokyonight&background=080b10&border=1e293b&stroke=ef4444&ring=f59e0b&fire=ef4444&currStreakNum=f59e0b&sideNums=38bdf8&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" width="95%" />
+    <a href="https://github.com/aslamxsthets">
+      <img src="https://streak-stats.demolab.com?user=aslamxsthets&theme=tokyonight&background=080b10&border=1e293b&stroke=ef4444&ring=f59e0b&fire=ef4444&currStreakNum=f59e0b&sideNums=38bdf8&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" width="95%" />
+    </a>
   </p>
 
   <!-- Contribution Snake Animation -->
@@ -779,24 +785,38 @@ export default function App() {
                 <h2 className="text-xl font-bold text-white flex items-center gap-2 pb-2 border-b border-[#21262d]">
                   <span>📊</span> GITHUB LOGBOOK
                 </h2>
-                <div className="p-4 rounded-lg bg-[#161b22] border border-[#30363d] text-center space-y-4">
-                  <div className="grid sm:grid-cols-2 gap-3 text-left">
-                    <div className="p-3 rounded bg-[#0d1117] border border-[#30363d]">
-                      <div className="flex items-center justify-between">
-                        <span className="text-xs text-slate-400 font-mono">aslamxsthets / stats</span>
-                        <ShieldCheck className="w-4 h-4 text-amber-400" />
-                      </div>
-                      <p className="text-sm font-bold text-white mt-1">Live Dynamic GitHub Stats Card</p>
-                      <p className="text-xs text-slate-500">Auto-calculated by github-readme-stats</p>
+                <div className="p-4 rounded-lg bg-[#161b22] border border-[#30363d] space-y-4">
+                  {/* Stats & Languages Row */}
+                  <div className="grid md:grid-cols-2 gap-4 items-start">
+                    {/* Stats Card */}
+                    <div className="rounded-lg overflow-hidden border border-[#1e293b] bg-[#080b10] flex justify-center p-1">
+                      <img
+                        src="https://github-readme-stats-fast.vercel.app/api?username=aslamxsthets&show_icons=true&theme=tokyonight&bg_color=080b10&title_color=f59e0b&icon_color=ef4444&text_color=e2e8f0&border_color=1e293b&hide_border=false"
+                        alt="Aslam Javeed GitHub Stats"
+                        className="w-full h-auto object-contain max-h-[220px]"
+                        loading="lazy"
+                      />
                     </div>
-                    <div className="p-3 rounded bg-[#0d1117] border border-[#30363d]">
-                      <div className="flex items-center justify-between">
-                        <span className="text-xs text-slate-400 font-mono">top / languages</span>
-                        <Flame className="w-4 h-4 text-red-400" />
-                      </div>
-                      <p className="text-sm font-bold text-white mt-1">Language Distribution Card</p>
-                      <p className="text-xs text-slate-500">Auto-detected from active repositories</p>
+
+                    {/* Top Languages Card with Section Bar */}
+                    <div className="rounded-lg overflow-hidden border border-[#1e293b] bg-[#080b10] flex justify-center p-1">
+                      <img
+                        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aslamxsthets&langs_count=6&theme=tokyonight&bg_color=080b10&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b&hide_border=false"
+                        alt="Top Languages"
+                        className="w-full h-auto object-contain max-h-[220px]"
+                        loading="lazy"
+                      />
                     </div>
+                  </div>
+
+                  {/* Streak Card */}
+                  <div className="rounded-lg overflow-hidden border border-[#1e293b] bg-[#080b10] flex justify-center p-1">
+                    <img
+                      src="https://streak-stats.demolab.com?user=aslamxsthets&theme=tokyonight&background=080b10&border=1e293b&stroke=ef4444&ring=f59e0b&fire=ef4444&currStreakNum=f59e0b&sideNums=38bdf8&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=64748b"
+                      alt="GitHub Streak"
+                      className="w-full h-auto object-contain max-h-[200px]"
+                      loading="lazy"
+                    />
                   </div>
 
                   {/* Snake Animation Note */}
