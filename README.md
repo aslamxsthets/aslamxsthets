@@ -224,6 +224,10 @@ DFIR: READY | INVESTIGATION: ACTIVE | LEARNING: CONSTANT
 
 <div align="center">
   <p>
+    <a href="https://aslamxsthets.github.io/Portfolio-Gear5/">
+      <img src="https://img.shields.io/badge/Portfolio_Web-Portfolio--Gear5-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Web" />
+    </a>
+    &nbsp;
     <a href="https://github.com/aslamxsthets">
       <img src="https://img.shields.io/badge/GitHub-aslamxsthets-181717?style=for-the-badge&logo=github&logoColor=white&color=0B0F19" alt="GitHub" />
     </a>
