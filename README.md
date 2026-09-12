@@ -254,7 +254,7 @@ DFIR: READY | INVESTIGATION: ACTIVE | LEARNING: CONSTANT
 <br/>
 
 <div align="center">
-  <img src="assets/gear5-moon.gif" alt="Monkey D. Luffy Gear 5 Drums of Liberation under Moon" width="460" style="border-radius: 8px;" />
+  <img src="assets/gear5-run.gif" alt="Monkey D. Luffy Gear 5 Drums of Liberation under Moon" width="460" style="border-radius: 8px;" />
 </div>
 
 ```text
