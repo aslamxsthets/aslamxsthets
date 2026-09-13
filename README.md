@@ -2,7 +2,7 @@
 
 <!-- Actual One Piece Monkey D. Luffy Gear 5 Animated Showcase -->
 <p align="center">
-  <img src="assets/gear5-luffy.gif" alt="Monkey D. Luffy Gear 5 — Sun God Nika Awakened" width="100%" style="max-width: 720px; border-radius: 12px; border: 1px solid #1e293b;" />
+  <img src="assets/one-piece-onigashima-arc.gif" alt="Monkey D. Luffy Gear 5 — Sun God Nika Awakened" width="100%" style="max-width: 720px; border-radius: 12px; border: 1px solid #1e293b;" />
 </p>
 
 <!-- The Grand Line of Cybersecurity HUD Banner -->
@@ -254,7 +254,7 @@ DFIR: READY | INVESTIGATION: ACTIVE | LEARNING: CONSTANT
 <br/>
 
 <div align="center">
-  <img src="assets/gear5-run.gif" alt="Monkey D. Luffy Gear 5 Drums of Liberation under Moon" width="460" style="border-radius: 8px;" />
+  <img src="assets/gear5-luffy.gif" alt="Monkey D. Luffy Gear 5 Drums of Liberation under Moon" width="460" style="border-radius: 8px;" />
 </div>
 
 ```text
