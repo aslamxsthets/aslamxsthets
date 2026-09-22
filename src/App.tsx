@@ -5,7 +5,7 @@ const rawReadme = `<div align="center">
 
 <!-- Actual One Piece Monkey D. Luffy Gear 5 Animated Showcase -->
 <p align="center">
-  <img src="assets/Luffy Gear 5.mp4" alt="Monkey D. Luffy Gear 5 — Sun God Nika Awakened" width="100%" style="max-width: 720px; border-radius: 12px; border: 1px solid #1e293b;" />
+  <img src="assets/gear5-luffy.gif" alt="Monkey D. Luffy Gear 5 — Sun God Nika Awakened" width="100%" style="max-width: 720px; border-radius: 12px; border: 1px solid #1e293b;" />
 </p>
 
 <!-- The Grand Line of Cybersecurity HUD Banner -->
